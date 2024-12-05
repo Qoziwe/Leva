@@ -1,0 +1,18 @@
+body, h1, p, a, button{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+#Cards{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 1vw;
+}
+.C-Card{
+    background-color: black;
+    width: 20vw;
+    height: 25vw;
+    border-radius: 2vw;
+    margin: 0;
+}
